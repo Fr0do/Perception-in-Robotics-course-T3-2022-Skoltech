@@ -46,7 +46,7 @@ Deadline dates for submitting problem sets, in the folder `PS*`:
  * 9-Feb-2022, PS1: Gaussians and Visualization 
  * ~~20-Feb-2022, PS2: Localization~~
  * 22-Feb-2022, PS2: Localization **NEW DATE**
- * 10-March-2022, PS3: SLAM
+ * 10-March-2022, PS3: SLAM **NEW DATE**
 
 
 ## Final Course Project
@@ -67,6 +67,11 @@ Logistics:
  * Paper: This should be a IEEE conference style paper, i.e., focus on the problem setting, why it matters and what is interesting/novel about it, your approach, your results, analysis of results, limitations, future directions.Cite and briefly survey prior work as appropriate but do not re-write prior work when not directly relevant to understand your approach.
  * Evaluation: Each team will evaluate their colleagues’ presentations.Templates will be provided the presentation day. All these points will be summed for a final evaluation (30% of the total grade).
 
+### Project proposals:
+1) Comparison of outlier filtering methods such as [AdaLam](https://arxiv.org/pdf/2006.04250.pdf), Lowe ratio test and ORD-SLAM's [Adaptive-FH](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7219438&casa_token=-1xETaVu46sAAAAA:kTazbuhX0LtOQxLBUES-SgBYo13VuvjK2XW4cr2o3IJY4CvizUrErUFAgxFwIzDUGDt9mQfDdQYJ) in terms of their influence on pose estimation quality.
+2) Comparison of [DFE](http://vladlen.info/papers/deep-fundamental.pdf) with conventional 8-point algorithm inside a RANSAC on pose estimation. Assesing generalization ability of DFE and testing it on scenes with planar surfaces.
+
+If you are interested and need more info reach out to TAs.
 
 
 ## Reference
